@@ -1,5 +1,5 @@
 # Ignite Lab Event-platform
-![Bower](https://img.shields.io/bowe/boot)
+![Bower](https://img.shields.io/bower/1/boot)
 
 ![](github/cover.png)
 
