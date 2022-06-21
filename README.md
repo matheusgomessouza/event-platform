@@ -1,5 +1,4 @@
-# Ignite Lab Event-platform
-![Bower](https://img.shields.io/bower/1/boot)
+# Ignite Lab - Event-platform
 
 ![](github/cover.png)
 
@@ -17,7 +16,6 @@
 ----------------------------------------------------------------------------------------------------------
 
 🚀 **Como rodar o projeto / Running the project**
-
 
 ----------------------------------------------------------------------------------------------------------
 
