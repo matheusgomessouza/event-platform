@@ -15,6 +15,7 @@
 - [Tailwindcss](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
 - [Apollo](https://www.apollographql.com/)
+- [GraphQL Codegen](https://www.graphql-code-generator.com/)
 ----------------------------------------------------------------------------------------------------------
 
 🚀 **Como rodar o projeto / Running the project**
